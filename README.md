@@ -8,7 +8,7 @@
 <br>
 
 ## 🙋‍♂️ About Me:
-- 🔭 I’m currently working as a **Freelance Software Engineer 💻** | **Flutter Developer 📱** .
+- 🔭 I’m currently working as a **Freelance Software Engineer 💻** | **Mobile Application Developer 📱** .
 - 🌱 I’m studying at **Faculty of Computers and Informatics (FCI-ZU)**
 - 👨‍💻 I’m **Cs Student**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MohamedAbdelmaboud?tab=repositories)** .
