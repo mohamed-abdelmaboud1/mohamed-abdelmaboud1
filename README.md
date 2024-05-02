@@ -10,7 +10,7 @@
 ## 🙋‍♂️ About Me:
 - 🔭 I’m currently working as a **Freelance Software Engineer 💻** | **Flutter Developer 📱** .
 - 🌱 I’m studying at **Faculty of Computers and Informatics (FCI-ZU)**
-- 💞️ I’m in Department: **Computer Science**
+- 👨‍💻 I’m **Cs Student**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MohamedAbdelmaboud?tab=repositories)** .
 - 📫 How to reach me [My Gmail](mailto:mohamedabdlmabod03@gmail.com).
   
