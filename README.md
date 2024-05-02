@@ -1,7 +1,9 @@
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Abdelmaoud!+🚀;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Abdelmaoud!+🚀;Flutter%20Developer;" />
 </div>
-
+<p align="center">
+  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
+</p> 
 <br>
 
 ## 🙋‍♂️ About Me:
@@ -21,7 +23,7 @@
 </div>
 <br>
 
-## 🚀 Languages and Tools:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">  Languages and Tools :
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,c,python,kotlin" />
     <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,figma,postman" /><br>
