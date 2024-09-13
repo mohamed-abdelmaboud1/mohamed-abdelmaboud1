@@ -22,11 +22,6 @@
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,c,python,kotlin" />
     <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,mongodb,figma,postman,html,css" /><br>
 </div>
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
 
 ## 🤝 Connect With Me:
 
@@ -37,7 +32,10 @@
   <a href="mailto:mohamedabdlmabod03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
-  
+  <a href="https://mohamedabdelmaboud.github.io/my_portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-40A787?style=for-the-badge&logo=web&logoColor=white" target="_blank" />
+</a>
+
   </a>
      </a>
      <a href="https://wa.me/+201029648334?text=Hello Mohamed,i am from GitHub Repository \nHow are you ♥️">
