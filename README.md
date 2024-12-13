@@ -53,11 +53,6 @@
 <a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="Mohamed Abdelmaboud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelmaboud1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="mohamed-abdelmaboud1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-abdelmaboud1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
-<p align="center">
-<a href="https://streak-stats.demolab.com/?user=mohamed-abdelmaboud1&theme=shadow-blue">
-  <img src="https://streak-stats.demolab.com/?user=mohamed-abdelmaboud1&theme=shadow-blue" alt="GitHub Streak" />
-</a>
-</p>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Unlock+the+secrets+of+my+code+vault+🗝️+💻;+Dive+in+and+explore+🌊;Thanks+for+visiting!+❤️">
 
