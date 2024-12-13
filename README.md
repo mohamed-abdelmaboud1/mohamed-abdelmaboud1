@@ -11,10 +11,10 @@
 - 🔭 I’m currently working as a **Freelance Software Engineer 💻** | **Mobile Application Developer 📱** .
 - 🌱 I’m studying at **Faculty of Computers and Informatics (FCI-ZU)**
 - 👨‍💻 I’m a **Cs Student**
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MohamedAbdelmaboud?tab=repositories)** .
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohamed-abdelmaboud1?tab=repositories)** .
 - 📫 How to reach me [My Gmail](mailto:mohamedabdlmabod03@gmail.com).
   
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAbdelmaboud&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAbdelmaboud" /> </p>
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abdelmaboud1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abdelmaboud1" /> </p>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">  Languages and Tools :
@@ -32,7 +32,7 @@
   <a href="mailto:mohamedabdlmabod03@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
 
-  <a href="https://mohamedabdelmaboud.github.io/my_portfolio/" target="_blank">
+  <a href="https://mohamed-abdelmaboud1.github.io/my_portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-40A787?style=for-the-badge&logo=web&logoColor=white" target="_blank" />
 </a>
 
@@ -50,11 +50,13 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/MohamedAbdelmaboud/github-readme-stats"><img alt="Mohamed Abdelmaboud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MohamedAbdelmaboud&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MohamedAbdelmaboud/github-readme-stats"><img alt="MohamedAbdelmaboud's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAbdelmaboud&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="Mohamed Abdelmaboud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelmaboud1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="mohamed-abdelmaboud1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-abdelmaboud1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MohamedAbdelmaboud&theme=shadow-blue" alt="GitHub Streak" /></a>
+<a href="https://streak-stats.demolab.com/?user=mohamed-abdelmaboud1&theme=shadow-blue">
+  <img src="https://streak-stats.demolab.com/?user=mohamed-abdelmaboud1&theme=shadow-blue" alt="GitHub Streak" />
+</a>
 </p>
 <h3 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Unlock+the+secrets+of+my+code+vault+🗝️+💻;+Dive+in+and+explore+🌊;Thanks+for+visiting!+❤️">
