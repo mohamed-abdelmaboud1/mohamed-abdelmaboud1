@@ -13,7 +13,7 @@
 - 🔭 I'm currently working as a **Freelance Software Engineer 💻** | **Mobile Application Developer 📱**
 - 🌱 I'm graduated from **Faculty of Computers and Informatics (FCI-ZU)**
 - 👨‍💻 I'm a **Cs Graduate**
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohamed-abdelmaboud1?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Repository](**
 - 📫 How to reach me [My Gmail](mailto:mohamedabdlmabod03@gmail.com)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abdelmaboud1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abdelmaboud1" /> </p>
 
@@ -52,7 +52,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mohamed-abdelmaboud1/mohamed-abdelmaboud1/output/snake.svg" alt="Snake animation" />
-  <img src="https://profile-counter.glitch.me/mohamed-abdelmaboud1/count.svg?"  />
+<!--   <img src="https://profile-counter.glitch.me/mohamed-abdelmaboud1/count.svg?"  /> -->
 </div>
 
 <div align="center">
