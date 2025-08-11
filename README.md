@@ -11,8 +11,8 @@
 
 ## 🙋‍♂️ About Me:
 - 🔭 I'm currently working as a **Freelance Software Engineer 💻** | **Mobile Application Developer 📱**
-- 🌱 I'm studying at **Faculty of Computers and Informatics (FCI-ZU)**
-- 👨‍💻 I'm a **Cs Student**
+- 🌱 I'm graduated from **Faculty of Computers and Informatics (FCI-ZU)**
+- 👨‍💻 I'm a **Cs Graduate**
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mohamed-abdelmaboud1?tab=repositories)**
 - 📫 How to reach me [My Gmail](mailto:mohamedabdlmabod03@gmail.com)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abdelmaboud1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abdelmaboud1" /> </p>
