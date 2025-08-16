@@ -15,6 +15,7 @@
 - 👨‍💻 I'm a **Cs Graduate**
 - 👨‍💻 All of my projects are available at **[My Repository](**
 - 📫 How to reach me [My Gmail](mailto:mohamedabdlmabod03@gmail.com)
+- 📫 Here is [My CV](https://drive.google.com/file/d/10I7tMALNIftTvcHR9Z4TcmbkeC1dbYkm/view)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abdelmaboud1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abdelmaboud1" /> </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">  Languages and Tools :
@@ -27,6 +28,9 @@
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-abdelmaboud-a95632296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="https://drive.google.com/file/d/10I7tMALNIftTvcHR9Z4TcmbkeC1dbYkm/view?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Cv-394AAB?style=for-the-badge&logo=google%20drive&logoColor=white" target="_blank" />
     </a>
     <a href="mailto:mohamedabdlmabod03@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
