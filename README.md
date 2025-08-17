@@ -51,7 +51,7 @@
 
 <p align="center">
 <a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="Mohamed Abdelmaboud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelmaboud1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&custom_title=Mohamed%20Abdelmaboud's%20Github%20Stats" /></a>
-<a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="mohamed-abdelmaboud1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-abdelmaboud1&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="mohamed-abdelmaboud1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-abdelmaboud1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
 <div align="center">
