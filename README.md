@@ -13,7 +13,6 @@
 - 🔭 I'm currently working as a **Freelance Software Engineer 💻** | **Mobile Application Developer 📱**
 - 🌱 I'm graduated from **Faculty of Computers and Informatics (FCI-ZU)**
 - 👨‍💻 I'm a **Cs Graduate**
-- 👨‍💻 All of my projects are available at **[My Repository](**
 - 📫 How to reach me [My Gmail](mailto:mohamedabdlmabod03@gmail.com)
 - 📫 Here is [My CV](https://drive.google.com/file/d/10I7tMALNIftTvcHR9Z4TcmbkeC1dbYkm/view)
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-abdelmaboud1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-abdelmaboud1" /> </p>
@@ -53,6 +52,7 @@
 <a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats">
     <img alt="Mohamed Abdelmaboud's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohamed-abdelmaboud1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&custom_title=Mohamed%20Abdelmaboud's%20Github%20Stats" /></a>
 <a href="https://github.com/mohamed-abdelmaboud1/github-readme-stats"><img alt="mohamed-abdelmaboud1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-abdelmaboud1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mohamed-abdelmaboud1&theme=github-dark-blue&hide_border=false&card_width=500" alt="GitHub Streak" /></a>
 </p>
 
 <div align="center">
