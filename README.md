@@ -60,7 +60,6 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=mohamed-abdelmaboud1&theme=github-dark-blue&hide_border=true&card_width=500" alt="GitHub Streak" />
   </a>
 </p>
-
 ---
 
 ## 🐍 Contribution Snake  
